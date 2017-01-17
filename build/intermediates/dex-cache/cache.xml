@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_b6f8ecdb2d49778e412d45abc7d3b0ee7259e580\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_74d41300a483c1c093b4fb4d9e1e188f31ace407\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_d5ecd52ddc7447220fa95f3effba3af54ab442a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_82b5e6771f3f239e729b0d276b746061b3f71df4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\Users\zhangyulong\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_9fa352113e9326e080a7513b6ebe2982db6d0bcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\libs\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\retrofit-2.1.0_71cc5b92c7584a710effc8dbf4ec8bc53462bea2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\Users\zhangyulong\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.0.2\a60c039ba54c73d1133b72178e1b04133c73d13d\adapter-rxjava-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a60c039ba54c73d1133b72178e1b04133c73d13d">
+        <dex dex="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.0.2_6f25f991ca839845884afb214804ddde96da0bfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_aaa7f58848dd32a6ed0771fce5877dd999b6267d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.2.1_5837e2558cf8dc115f3365e7d253ed3a80be4ed9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\libs\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\glide-3.7.0_ba5f128682688aca8e9fbd042a56f127caac7139\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c25c36d2c5bd76d73bf73a3782e659e8c7f070c8">
+        <dex dex="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bec048f567cd1843e28a7cc0f62c8db94fff5604\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\libs\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-3.4.1_a102f0cadd196b612f75652c936ee73dcb0d598b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\Users\zhangyulong\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.6_1529346ea72347da1ac25e7f9c4f661647931962\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_7ad73e62600b7f69a8cae6eac59b7ec5d1c8c93e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f48f3715da4de9d32c4b161c18ee6726912e8371">
+        <dex dex="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_499bcaa5a445d24991430120c2355c1b7251f87f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\Users\zhangyulong\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_739e8063316e2902800484745dadf2eefa60496a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\Users\zhangyulong\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_8b71c41d8c219f9d2f99a9ff84e23612e0939720\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\libs\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.11.0_c7c8c63dd65329832537df182220e5f812a32c48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\libs\jsoup-1.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="28e5375920a4f6e73123e45ab6ad3b8bc93b0869">
+        <dex dex="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.9.2_89a00fd2be5866d82e06722c1e0f512dcb822a6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\Users\zhangyulong\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.2_e49eb29127903e9f452a8622766eba082b37383d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\libs\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.7_d17a949fd8f2cbde8bddb13562d1bfafef732346\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_936959b21f28d28130398b02678a254b00d6c97f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\libs\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Documents\AndroidStudioProjects\FreshManMVP-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\converter-gson-2.1.0_bc1a7042104c20d5b99cac4ba3ada63533e23988\classes.dex" />
+    </item>
+
+</items>
